@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<subtitles>
+  <subtitle id="0">
+    <StartTime>9</StartTime>
+    <Text>Hi mom!</Text>
+  </subtitle>
+  <subtitle id="1">
+    <StartTime>10.25</StartTime>
+    <Text>Uh. So I got my ticket home from Europe.</Text>
+  </subtitle>
+  <subtitle id="2">
+    <StartTime>12</StartTime>
+    <Text>I get back on June 6th, but it's a really late flight because that was the cheapest, so it gets in at midnight.</Text>
+  </subtitle>
+  <subtitle id="3">
+    <StartTime>17</StartTime>
+    <Text>But don't worry, I'll get a shuttle home from the airport, so you don't have to come pick me up.</Text>
+  </subtitle>
+  <subtitle id="4">
+    <StartTime>20</StartTime>
+    <Text>Like really, seriously, you don't have to.</Text>
+  </subtitle>  
+  <subtitle id="5">
+    <StartTime>22.5</StartTime>
+    <Text>Okay, so. Love you! See you soon. Bye!</Text>
+  </subtitle>
+  <subtitle id="6">
+    <StartTime>27</StartTime>
+    <Text></Text>
+  </subtitle>
+</subtitles>

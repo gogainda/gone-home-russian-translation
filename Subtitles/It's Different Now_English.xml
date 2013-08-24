@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<subtitles>
+  <subtitle id="0">
+    <StartTime>1.5</StartTime>
+    <Text>It's different now.</Text>
+  </subtitle>
+  <subtitle id="1">
+    <StartTime>3.5</StartTime>
+    <Text>I mean, we still hang out all the time like before. But now when no one else is around...</Text>
+  </subtitle>
+  <subtitle id="2">
+    <StartTime>9.75</StartTime>
+    <Text>...well, you know.</Text>
+  </subtitle>
+  <subtitle id="3">
+    <StartTime>11.5</StartTime>
+    <Text>So you COULD say we're dating. But it's secret. Secret dating? I don't know.</Text>
+  </subtitle>
+  <subtitle id="4">
+    <StartTime>19.5</StartTime>
+    <Text>I mean I guess that's the real difference: now, when we get off the phone, or go home for the night...</Text>
+  </subtitle>
+  <subtitle id="5">
+    <StartTime>25.75</StartTime>
+    <Text>or it's just quiet and we're alone...</Text>
+  </subtitle>
+  <subtitle id="6">
+    <StartTime>28.5</StartTime>
+    <Text>we say "I love you."</Text>
+  </subtitle>
+</subtitles>

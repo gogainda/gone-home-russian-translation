@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<subtitles>
+  <subtitle id="0">
+    <StartTime>9</StartTime>
+    <Text>Привет, мам!</Text>
+  </subtitle>
+  <subtitle id="1">
+    <StartTime>10.25</StartTime>
+    <Text>Ну, в общем, я купила билет домой из Европы.</Text>
+  </subtitle>
+  <subtitle id="2">
+    <StartTime>12</StartTime>
+    <Text>Я вернусь 6-го июня, но рейс очень поздний, потому что самый дешевый, так что прилечу в полночь.</Text>
+  </subtitle>
+  <subtitle id="3">
+    <StartTime>17</StartTime>
+    <Text>Но ты не переживай, я доберусь до дома на автобусе, так что забирать меня не придётся.</Text>
+  </subtitle>
+  <subtitle id="4">
+    <StartTime>20</StartTime>
+    <Text>Не, я серьёзно, не надо за мной приезжать.</Text>
+  </subtitle>  
+  <subtitle id="5">
+    <StartTime>22.5</StartTime>
+    <Text>Ну всё. Люблю тебя! Скоро увидимся. Пока!</Text>
+  </subtitle>
+  <subtitle id="6">
+    <StartTime>27</StartTime>
+    <Text></Text>
+  </subtitle>
+</subtitles>

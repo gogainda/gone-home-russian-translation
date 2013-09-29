@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<subtitles>
+  <subtitle id="0">
+    <StartTime>3</StartTime>
+    <Text>Кэти... Мне так жаль.</Text>
+  </subtitle>
+  <subtitle id="1">
+    <StartTime>6</StartTime>
+    <Text>Что я не могу увидеть тебя лично.</Text>
+  </subtitle>
+  <subtitle id="2">
+    <StartTime>9.25</StartTime>
+    <Text>Что не могу тебе все рассказать.</Text>
+  </subtitle>
+  <subtitle id="3">
+    <StartTime>12</StartTime>
+    <Text>Но я надеюсь, что, читая этот дневник, ты поймешь, почему мне пришлось так поступить.</Text>
+  </subtitle>
+  <subtitle id="4">
+    <StartTime>20.25</StartTime>
+    <Text>И ты не расстроишься, и не будешь меня ненавидеть после этого, просто знай...</Text>
+  </subtitle>  
+  <subtitle id="5">
+    <StartTime>26</StartTime>
+    <Text>что я там, где должна быть.</Text>
+  </subtitle>
+  <subtitle id="6">
+    <StartTime>29.5</StartTime>
+    <Text>Я очень люблю тебя, Кэти. Еще увидимся.</Text>
+  </subtitle>
+  <subtitle id="7">
+    <StartTime>34</StartTime>
+    <Text>Когда-нибудь.</Text>
+  </subtitle>
+  <subtitle id="7">
+    <StartTime>36.5</StartTime>
+    <Text>С любовью, Сэм.</Text>
+  </subtitle>
+  <subtitle id="8">
+    <StartTime>39</StartTime>
+    <Text></Text>
+  </subtitle>
+</subtitles>

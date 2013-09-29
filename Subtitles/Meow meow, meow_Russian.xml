@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<subtitles>
+  <subtitle id="0">
+    <StartTime>1</StartTime>
+    <Text>Мяу мяу.</Text>
+  </subtitle>
+  <subtitle id="1">
+    <StartTime>4</StartTime>
+    <Text>Мяу мяу мяу, мяу мяу, мяу./Text>
+  </subtitle>
+  <subtitle id="2">
+    <StartTime>10</StartTime>
+    <Text>Мяу мяу мяу мяу.</Text>
+  </subtitle>
+  <subtitle id="3">
+    <StartTime>14</StartTime>
+    <Text>Мяу мяу мяу, мяу мяу, мяу, мяу. Мяу мяу. Мяу.</Text>
+  </subtitle>
+  <subtitle id="4">
+    <StartTime>20</StartTime>
+    <Text>Мяу мяу, мяу мяу. Мяу мяу мяу мяу мяу мяу мяу мяу мяу мяу.</Text>
+  </subtitle>
+  <subtitle id="5">
+    <StartTime>27</StartTime>
+    <Text>Мяу мяу мяу. Мяу мяу. Мяу мяу, мяу мяу мяу мяу. Мяу.</Text>
+  </subtitle>
+  <subtitle id="6">
+    <StartTime>30</StartTime>
+    <Text>Мяу.</Text>
+  </subtitle>
+</subtitles>

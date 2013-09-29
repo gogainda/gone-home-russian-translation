@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<subtitles>
+  <subtitle id="0">
+    <StartTime>1.5</StartTime>
+    <Text>Теперь все иначе.</Text>
+  </subtitle>
+  <subtitle id="1">
+    <StartTime>3.5</StartTime>
+    <Text>В том смысле, что мы продолжаем тусоваться, как и раньше. Но теперь, только когда никого поблизости...</Text>
+  </subtitle>
+  <subtitle id="2">
+    <StartTime>9.75</StartTime>
+    <Text>...ну, ты понимаешь.</Text>
+  </subtitle>
+  <subtitle id="3">
+    <StartTime>11.5</StartTime>
+    <Text>Так что МОЖНО назвать это свиданиями. Но скрытными. Тайные свидания? Я даже не знаю.</Text>
+  </subtitle>
+  <subtitle id="4">
+    <StartTime>19.5</StartTime>
+    <Text>То есть, сейчас действительно все иначе: теперь, когда мы заканчиваем говорить по телефону или прощаемся, чтобы пойти по домам...</Text>
+  </subtitle>
+  <subtitle id="5">
+    <StartTime>25.75</StartTime>
+    <Text>или когда мы просто наедине...</Text>
+  </subtitle>
+  <subtitle id="6">
+    <StartTime>28.5</StartTime>
+    <Text>мы говорим друг другу: "Я тебя люблю".</Text>
+  </subtitle>
+</subtitles>

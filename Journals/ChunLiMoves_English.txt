@@ -1,9 +1,0 @@
-Chun Li moves
-
-Fireball: <- (hold) -> Punch
-
-Lightning kick: Kick Kick Kick Kick!
-
-Helicopter Kick: down (hold) up+Kick
-
-Air Stomp: down + Medium Kick (while jumping)

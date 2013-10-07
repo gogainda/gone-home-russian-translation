@@ -1,4 +1,4 @@
-﻿gone-home-russian-translation
+gone-home-russian-translation
 =============================
 
 - Обновлена версия текстов от  5-10-2013 19:33
@@ -14,7 +14,7 @@ Cтраница перевода http://notabenoid.com/book/43031
 
 или в Steam http://store.steampowered.com/app/232430/
 
-Авторы перевода:  
+## Авторы перевода:  
 
 Alekcan
 Anastasia_Bes  

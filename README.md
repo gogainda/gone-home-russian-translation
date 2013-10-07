@@ -14,6 +14,20 @@ Cтраница перевода http://notabenoid.com/book/43031
 
 или в Steam http://store.steampowered.com/app/232430/
 
+Авторы перевода:  
+
+Alekcan
+Anastasia_Bes  
+Arterius  
+axelllerator  
+d0bermaNN  
+LeeF73  
+Sanek696RT  
+tiker_x  
+Icharus  
+ggboy
+
+
 
 
 

@@ -32,7 +32,7 @@ Cтраница перевода http://notabenoid.com/book/43031
   `SecondaryFont = RussianPrimaryFont`
 
 ## Авторы перевода:  
-**GoneHomeRusTeam**:  
+**UDTeam**:  
 Alekcan  
 Anastasia_Bes  
 Arterius  

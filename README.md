@@ -17,10 +17,8 @@ Cтраница перевода http://notabenoid.com/book/43031
 
 1. Скачать последнюю версию текстов https://github.com/gogainda/gone-home-russian-translation/archive/dev.zip
 2. Распоковать в соответствующую папку:  
-    - **Windows Vista/7**: /Users/<username>/AppData/LocalLow/The Fullbright Company/Gone Home/Text/Localized/ 
-    
-    - Windows XP: /Documents and Settings/<username>/Local Settings/Application Data/The Fullbright Company/Gone Home/Text/Localized/
-    
+    - **Windows Vista/7**: /Users/<username>/AppData/LocalLow/The Fullbright Company/Gone Home/Text/Localized/      
+    - Windows XP: /Documents and Settings/<username>/Local Settings/Application Data/The Fullbright Company/Gone Home/Text/Localized/      
     - Mac OSX: ~/Library/Caches/The Fullbright Company/Gone Home/Text/Localized/   
     - Linux: ~/.config/unity3d/The Fullbright Company/Gone Home/Text/Localized/  
 

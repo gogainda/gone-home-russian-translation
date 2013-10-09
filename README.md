@@ -32,8 +32,8 @@ Cтраница перевода http://notabenoid.com/book/43031
   `SecondaryFont = RussianPrimaryFont`
 
 ## Авторы перевода:  
-
-Alekcan
+**GoneHomeRusTeam**:  
+Alekcan  
 Anastasia_Bes  
 Arterius  
 axelllerator  
